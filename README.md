@@ -37,7 +37,7 @@
 
 ![image](https://github.com/MaximMxwave/tg_testusers_bot/blob/main/screenshots/start.png)
 
-**Пример с одним сгенерированными данными пользователя**
+**Пример с одним сгенерированным данным пользователя**
 
 ![image](https://github.com/MaximMxwave/tg_testusers_bot/blob/main/screenshots/1.png)
 
