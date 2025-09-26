@@ -31,19 +31,19 @@
 
 **Информация о боте**
 
-![image](https://github.com/MaximMxwave/tg_creditcards_bot/blob/main/screenshots/info.png)
+![image](https://github.com/MaximMxwave/tg_testusers_bot/blob/main/screenshots/info.png)
 
 **Стартовое меню**
 
-![image](https://github.com/MaximMxwave/tg_creditcards_bot/blob/main/screenshots/start.png)
+![image](https://github.com/MaximMxwave/tg_testusers_bot/blob/main/screenshots/start.png)
 
-**Пример с VISA**
+**Пример с одним сгенерированными данными пользователя**
 
-![image](https://github.com/MaximMxwave/tg_creditcards_bot/blob/main/screenshots/visa.png)
+![image](https://github.com/MaximMxwave/tg_testusers_bot/blob/main/screenshots/1.png)
 
-**Пример c Mastercard**
+**Пример с двумя сгенерированными данными пользователей**
 
-![image](https://github.com/MaximMxwave/tg_creditcards_bot/blob/main/screenshots/mastercard.png)
+![image](https://github.com/MaximMxwave/tg_testusers_bot/blob/main/screenshots/2.png)
 
 ---
 
