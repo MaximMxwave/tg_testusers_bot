@@ -93,7 +93,7 @@ python3 main.py
 [t.me/Users_testBot](https://t.me/Users_testBot)
 
 
-**👤 Автор:**
+**👨‍💻 Создатель:**
 
 Максим Олесов ([@Mxwave](https://t.me/Mxwave))
 
